@@ -1,0 +1,19 @@
+{
+  "name": "api-movie-practice",
+  "version": "1.0.0",
+  "description": "App de consulta y con API-REST y gestión de usuarios",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luvitz7/API-Movie-Practice.git"
+  },
+  "author": "Ludwig PV <lu.pv7@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luvitz7/API-Movie-Practice/issues"
+  },
+  "homepage": "https://github.com/Luvitz7/API-Movie-Practice#readme"
+}
